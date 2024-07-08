@@ -4,6 +4,8 @@
 
 This repository contains a thorough analysis of the Conti Leaks dataset, focusing on the activities and communications of the Conti gang, a cybercrime group notorious for ransomware attacks. Through data preparation, visualization, network analysis, and natural language processing techniques, we aim to provide insights into the group's operations and dynamics. The analysis includes methods to handle data from multiple sources, visualize patterns over time, identify key actors within the group, analyze sentiment in communications, and extract technical terms related to ransomware scripts. We invite collaborators to explore, contribute, and engage in further analysis to deepen our understanding of cyber threats and enhance cybersecurity measures.
 
+## Colab Workspace
+- Colab workspace could be found in this [link](https://colab.research.google.com/drive/1r2Xj6eWSdYY934N3z9r7ZTXpvp8yojIF?usp=sharing)
 ## Data Source
 
 - **Raw Data Source:** [Conti Leaks Englished](https://github.com/TheParmak/conti-leaks-englished/blob/master/english_chats/deepl_translated_jabber/)
